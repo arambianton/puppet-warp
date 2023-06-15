@@ -130,7 +130,7 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        'numpy>=1.21.5',
+        'numpy>=1.21.1',
         'opencv-contrib-python==4.5.4.60',
         'opencv-python==4.5.4.60',
         'scikit-image==0.19.2',
